@@ -13,4 +13,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
