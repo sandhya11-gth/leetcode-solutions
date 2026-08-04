@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -24,10 +25,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0013-roman-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
