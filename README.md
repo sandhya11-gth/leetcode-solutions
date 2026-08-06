@@ -6,6 +6,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0387-first-unique-character-in-a-string](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -52,4 +54,12 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
