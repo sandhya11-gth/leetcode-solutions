@@ -22,6 +22,7 @@
 | [0152-maximum-product-subarray](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
