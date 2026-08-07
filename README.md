@@ -6,6 +6,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
@@ -30,6 +31,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
@@ -62,4 +64,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
