@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -41,6 +42,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
@@ -67,5 +69,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
