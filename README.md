@@ -27,6 +27,7 @@
 | [0283-move-zeroes](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@
 | [0015-3sum](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,4 +75,5 @@
 | ------- |
 | [0015-3sum](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
