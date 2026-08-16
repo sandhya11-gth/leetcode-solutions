@@ -24,6 +24,7 @@
 | [0015-3sum](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0242-valid-anagram](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
