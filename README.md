@@ -122,6 +122,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0190-reverse-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -140,4 +141,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0202-happy-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
