@@ -23,6 +23,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0036-valid-sudoku) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -97,6 +99,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
