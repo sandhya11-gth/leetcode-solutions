@@ -7,7 +7,7 @@ public:
             if(s[i]==t[j]){
                 i++;
             }
-            
+   
                 j++;
         }
         return i==s.size();
