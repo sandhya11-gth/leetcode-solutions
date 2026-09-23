@@ -13,6 +13,7 @@
 | [0125-valid-palindrome](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -97,6 +99,7 @@
 | [0118-pascals-triangle](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Queue
 |  |
 | ------- |
