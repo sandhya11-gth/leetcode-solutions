@@ -37,6 +37,7 @@
 | [0136-single-number](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -73,6 +74,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -81,6 +83,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
