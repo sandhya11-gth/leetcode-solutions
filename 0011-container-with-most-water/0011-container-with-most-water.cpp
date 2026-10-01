@@ -6,12 +6,14 @@ public:
         int max_ans=0;
         while(x<y){
 
-        int current_area= min( height[x], height[y])*( y-x);
+        int current_area;
             if(height[x]<height[y]){
+                current_area= (y-x) * height[x];
                 x++;
             }
-            else
-                y--;
+            else{
+                current_area= (y-x)* height[y];
+                y--;}
         
         max_ans=max(max_ans, current_area);
         }
