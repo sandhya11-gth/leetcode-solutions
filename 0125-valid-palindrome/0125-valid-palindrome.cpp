@@ -12,6 +12,8 @@ public:
         }
         return c;
     }
+
+    
     bool isPalindrome(string s) {
         int left= 0;
         int right= s.size()-1;
