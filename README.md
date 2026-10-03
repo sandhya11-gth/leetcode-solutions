@@ -15,10 +15,12 @@
 | [0344-reverse-string](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [1544-make-the-string-great](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/1544-make-the-string-great) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [1544-make-the-string-great](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/1544-make-the-string-great) |
 ## Bracket Sequences
 |  |
 | ------- |
