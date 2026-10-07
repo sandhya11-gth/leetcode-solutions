@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1544-make-the-string-great](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/1544-make-the-string-great) |
 ## Bracket Sequences
 |  |
@@ -185,4 +186,16 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sandhya11-gth/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
